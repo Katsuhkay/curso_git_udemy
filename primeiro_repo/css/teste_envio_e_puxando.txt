@@ -1,1 +1,3 @@
 Enviando um arquivo para o GIT!
+
+Agora essa parte é adicionada pelo navegador e será enviada de volta ao VS Code!
